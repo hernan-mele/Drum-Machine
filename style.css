@@ -1,0 +1,7 @@
+#display{
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+    text-align: center;
+    background: rgba(227, 252, 3, 0.8);
+}
